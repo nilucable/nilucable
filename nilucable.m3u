@@ -4,9 +4,6 @@
 https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo=" https://logowik.com/content/uploads/images/4104-zing-tv-new.webp" group-title="Hindi Movie", zing tv
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=2137600.m3u8
 
@@ -19,19 +16,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
 
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Uabegeu0N8nB0wngeb0IYYdFLNROF0rdbZ5_u3VjrUNMHYJbV2jH3up3&s=10" group-title="Hindi Movie", ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8 
 
 
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1.m3u8 
-
-
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MON TV
+#EXTINF:-1 tvg-logo="https://bdixtv24.com/uploads/tv_image/mon-tv-bangla.png" group-title="Music", MON TV
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", Bangla Plus HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="Bangla Movie", Bangla Plus HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
