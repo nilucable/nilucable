@@ -1,1 +1,316 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLDMINES
+https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SONY MAX HINDI
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", zing tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=2137600.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE ACTION
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE TALKIS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", STAR GOLD SELECT
+http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", RDC MOVIE
+https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1.m3u8 
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MON TV
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", Bangla Plus HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", JALSHA MOVIES
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", AMR  BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DVC BANGLA 
+https://vstechs.in/live/Devine/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", AMR DIGITAL
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE BANGLA CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", KHUSBO BANGLA
+https://cdn3.pishow.tv/live/283/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE HINDI
+http://116.202.46.40:9023/ZEE_HINDI/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SONY TV HINDI
+http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", STAR GOLD HINDI
+http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", STAR BHARAT HINDI
+http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", GAAN BANGLA
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=lSNFSYkNYzIttvS2YrZ2fg&expires=1724148030&user=c28278b7cc41459ea95c1d05df91e3e7
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SAGA MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SHEEMARO SOMG
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", 9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SAGA MUSIC 2ND
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", 9XM SONG
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SANGIT BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DHOOM MUSIC
+https://cdn3.pishow.tv/live/279/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SONY SAB
+http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", COLORS HINDI
+http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", STAR JALSHA
+http://217.20.112.199/starjalshahd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", PIRATTA TV
+http://212.102.34.8:9080/Pitaara/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE",ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", & PICTURE
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", &TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+
+
+
+l
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE ACTION 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE BOLLYWOOD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", STAR PLUS HD
+http://217.20.112.199/starplushd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE BANGLA
+http://116.202.46.40:9023/ZEE_BANGLA_HD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", COLORS BANGLA
+http://116.202.46.40:9023/COLORS_BANGLA_HD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ZEE BANGLA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ENTER 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MAASRANGA
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ATN BANGLA
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", JAMUNA TV
+https://utube.buddyxiptv.com/@jamunatvbd.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MOVIE BANGLA
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", CHANNEL I https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", BANGLA TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DESH TV
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", SOMOY TV
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", ASIAN TV
+https://mytvbangla.com/0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", BANGLA VISON
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DEEPTO TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", JANMOVUMI TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", DURONTO TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=_BxWr6HGDCLGtUQVaKLyYg&expires=1724147970&user=c28278b7cc41459ea95c1d05df91e3e7
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", MILLION TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", NAN TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", RAJDANI TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", TIME TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="GROUP_TITLE", CB24 TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/playlist.m3u8
