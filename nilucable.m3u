@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie",SONY AATH
-
-
-http://38.46.221.98:8080/auth/1jCqpF74ou5v0NY25E1q6Zt-i8zB2jgDtdM7v5ZE7QwishBCv6XRxQfd0LX7VN9Itg6wFRcPKqhU70kVa08wzdK0aRBkLyCzdEVVFPu9546qcoVasl-uDF8R0pbFQXk4TmYc9QiDlDzDa-H_7-Xf933td67C7QgOD9KExx1KQ5e3wdQMbw9k3D3n1TB0SHvZi_6o2w6X3X3sPlxS_Hlt_2VbkM5OgzLMHJgq7pQIiIBaSulaNSdENigMnEn62AfYvngM_SMF2BS5F9GU65b5AW4t6NtvHqjgUrwUwDDjZuC4swHYlSK7fW6HfjEV51_iTv56IsWQvwaBDXXMl2hyzkr_KDPZy_lLP006OfGminrlD0wiSB4hxTsxGPBz1lF8b_hwZS9mIALf23f1_xHBozghlWhXVnF6tyIvWvrT4jz94WL9TZS61k09yEF5dMYNzWapQQghMa-Q_zonxNn_kPexoY0BbZPDmaOMrp3h7mgjRvDD4p_XCEMzD-e5PFU9jZTXNjx_Kse5NQPCqITGle79iZgs3YILFXV-e4X6QbZOcYzvyAVC9tCyKuMXXf0_ue2OF8NZQdI5zZOgr8j15oYfsv3XJupaXRH5zAqvi2nSPVMkUv8sHQAN1P3DyZSNbAVqFvANGI6Ei-rXKJVmFg
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLDMINES
 https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://logowik.com/content/uploads/images/4104-zing-tv-new.webp" group-title="Hindi Movie", zing tv
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=2137600.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movie", ZEE ACTION
@@ -35,7 +27,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwR86jHJIVJLgC6sRp46_M3giz_Uo3MRMStgocnMKCHcwVmUgfz--Juv1&s=10" group-title="Bangla Movie", JALSHA MOVIES
-http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+http://51.159.212.144:8080/live/play/V0hSbEwyUnRSM0UzYVN0MlYzWTNOelV6Y2pjNFNtaFVlV1pSZWpjMldrZzVOMEpwVXpaaFpHaHpSVDA9/245900
 
 
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Aamar_Bangla?file=Amar_Bangla_logo.png" group-title="Bangla Movie", AMR  BANGLA
