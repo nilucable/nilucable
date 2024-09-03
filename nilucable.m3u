@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLD
+http://51.159.15.47:8080/live/play/UkhwR00wdFRhbXd6Tmtwc1RYSldaVTB5UVZWNFJFNXpia1kyTkdWRVFqWlJOV3RWVjA0d1NIVTJkejA9/341043
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLDMINES
 https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
 
