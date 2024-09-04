@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTTS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", Sony Aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLD
