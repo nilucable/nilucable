@@ -1,14 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Sony_Aath_new.png" group-title="Sony", Sony Aath
-http://tv.digitalview.live:8080/live/abidhasan/283829471947229/71680.ts
-
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Sony_Aath_new.png" group-title="Sony", Sony Aath
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLD
-http://51.159.15.47:8080/live/play/UkhwR00wdFRhbXd6Tmtwc1RYSldaVTB5UVZWNFJFNXpia1kyTkdWRVFqWlJOV3RWVjA0d1NIVTJkejA9/341043
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLDMINES
 https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
