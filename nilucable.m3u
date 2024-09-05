@@ -7,85 +7,50 @@ https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="Hindi Movie" resolution="1920@1080",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
-
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Filamchi
-https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Movie Club 
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", & PICTURE
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", &TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", ZEE ACTION 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", ZEE BOLLYWOOD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", zing tv
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=2137600.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movie", ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="Hindi Movie", RDC MOVIE
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Uabegeu0N8nB0wngeb0IYYdFLNROF0rdbZ5_u3VjrUNMHYJbV2jH3up3&s=10" group-title="Hindi Movie", ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
@@ -101,16 +66,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangla Movie", NAN Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="Bangla Movie" resolution="1920@1080",BANGLA TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=3599830
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Jnt8_VUn-ND9Ee9OOLv2cV_ceGCbsQ-hkg&s" group-title="Bangla Movie", Ruposhi Bangla
 https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="Bangla Movie", Bangla Plus HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -118,24 +78,17 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Aamar_Bangla?file=Amar_Bangla_logo.png" group-title="Bangla Movie", AMR  BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSACq3YF_7trRJK07gUHdruar3ObJAJ4NKCLq6DlP9MuyQovD60vgMxU&s=10" group-title="Bangla Movie", DVC BANGLA 
 https://vstechs.in/live/Devine/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://dthlivetv.com/content/tv/Aamar-Digital" group-title="Bangla Movie", AMR DIGITAL
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://bn.m.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla Movie", ZEE BANGLA CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://bn.m.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Bangla Movie", KHUSBO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangla Movie", MILLION TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
@@ -154,22 +107,17 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", SANGIT BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", DHOOM MUSIC
 https://cdn3.pishow.tv/live/279/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", Sangeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", Mastiii
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="Music" resolution="854@480",ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", musicindia
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
@@ -177,10 +125,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", 9Xtashan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", 9XJalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", mtvbeats
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
@@ -188,9 +134,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="Music" resolution="854@480",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title"Music", showbox
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
 #EXTINF:-1,B4U Music
 https://cdn2.pishow.tv/live/141/master.m3u8
 
@@ -203,11 +149,11 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Sony_Aath_new.png" group-title="Sony", Sony Aath
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", STAR JALSHA
+http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
@@ -216,19 +162,25 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony",ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", MAASRANGA
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", Ekusha Tv
-
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
@@ -236,54 +188,32 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", Descobary Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", JAMUNA TV
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", MOVIE BANGLA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", CHANNEL I https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
-
-
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", CHANNEL I
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", BANGLA TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", DESH TV
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", SOMOY TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", ASIAN TV
 https://mytvbangla.com/0.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", BANGLA VISON
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -291,10 +221,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", JANMOVUMI TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", DURONTO TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=_BxWr6HGDCLGtUQVaKLyYg&expires=1724147970&user=c28278b7cc41459ea95c1d05df91e3e7
-
 
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Bangladesh", RAJDANI TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
