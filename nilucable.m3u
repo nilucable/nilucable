@@ -4,6 +4,25 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1509086349692858370/0iiGu-t__400x400.jpg" group-title="Hindi Movie", GOLDMINES
 https://allinonereborn.com/livetv-web/live.php?id=17722&vtoken=&e=.m3u8
 
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Star Gold
+http://119.156.26.155:8000/play/a079/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Star Gold 2
+http://119.156.26.155:8000/play/a07p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Star Gold Action 
+http://119.156.26.155:8000/play/a07o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Star Gold Thrilis
+http://119.156.26.155:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Sony Max
+http://119.156.26.155:8000/play/a06e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="Hindi Movie" resolution="1920@1080",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
@@ -38,7 +57,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
@@ -51,9 +69,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="Hindi Movie", RDC MOVIE
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Uabegeu0N8nB0wngeb0IYYdFLNROF0rdbZ5_u3VjrUNMHYJbV2jH3up3&s=10" group-title="Hindi Movie", ZEE CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Hindi Movie", Colors Hd
+http://119.156.26.155:8000/play/a06w/index.m3u8
 
 
 
@@ -97,9 +114,10 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
+
+
 #EXTINF:-1 tvg-logo="LOGO_URL" group-title="Music", Gaan  BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://bdixtv24.com/uploads/tv_image/mon-tv-bangla.png" group-title="Music", MON TV
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
@@ -145,6 +163,21 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Star Plus
+http://119.156.26.155:8000/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Star Bharat
+http://119.156.26.155:8000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Sony Pal
+http://119.156.26.155:8000/play/a072/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Sony 
+http://119.156.26.155:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="Sony", Sony Sab
+http://119.156.26.155:8000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Sony_Aath_new.png" group-title="Sony", Sony Aath
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
